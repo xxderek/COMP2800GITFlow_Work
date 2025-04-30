@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 
 =======
->>>>>>> Xiang_Xu_feature4
+>>>>>>> Xiang_Xu_feature5
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -16,9 +16,9 @@
     <script src="app.js"></script>
 =======
     <h1 id="title">This is my simple webpage</h1>
-    <div class="content">
+    <div class="content clickable">Click me</div>
     </div>
->>>>>>> Xiang_Xu_feature4
+>>>>>>> Xiang_Xu_feature5
 </body>
 
 </html>
