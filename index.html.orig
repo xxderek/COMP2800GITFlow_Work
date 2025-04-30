@@ -1,0 +1,24 @@
+<html>
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> Xiang_Xu_feature4
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<<<<<<< HEAD
+    <h1 id="title">This is my very simple webpage</h1>
+    <div class="container">
+    </div>
+    <script src="app.js"></script>
+=======
+    <h1 id="title">This is my simple webpage</h1>
+    <div class="content">
+    </div>
+>>>>>>> Xiang_Xu_feature4
+</body>
+
+</html>
